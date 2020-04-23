@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="company_name">Welcome TO SAVE ENVIROMENT Organiatiom</string>
+    <string name="company_Image">O.</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="email">chanderbhanu096@env.org</string>
+    <string name="address">Save Enviroment Org.
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+United States</string>
+    <string name="Timing">9:00Am - 5:00Pm</string>
+    <string name="About">About</string>
+    <string name="about">"Environmentalist Foundation (E.F) is a wildlife conservation and habitat restoration group. A not for profit trust, E.F focuses on real-time and result oriented conservation efforts. Volunteer for our org.  her Environment with E.F"</string>
+</resources>
